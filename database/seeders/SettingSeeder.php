@@ -29,7 +29,7 @@ class SettingSeeder extends Seeder
                 'include_tax'=>'false',
                 'tax_rate'=>10,
                 'invoice_prefix'=>'INV',
-                'invoice_initial_value'=>1,
+                'invoice_initial_value'=>100,
                 'invoice_theme'=>'222222',
                 'company_logo'=>'',
                 'company_logo_width'=>300,

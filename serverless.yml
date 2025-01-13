@@ -1,0 +1,4 @@
+service: laravel
+provider:
+  name: vercel
+  runtime: php
